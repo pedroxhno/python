@@ -1,2 +1,2 @@
 # python
-Paradinhas que faço em python
+Paradinhas que fazemos em python
